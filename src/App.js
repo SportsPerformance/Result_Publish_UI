@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // App.js
 import React from 'react';
 import './App.css';
@@ -15,6 +16,7 @@ function App() {
         </Routes>
       </div>
     </Router>
+
   );
 }
 
